@@ -1,4 +1,4 @@
-connection: "appnovation-looker-ai"
+connection: "test-connection1"
 
 include: "/views/*.view.lkml"
 
