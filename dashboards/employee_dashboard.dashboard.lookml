@@ -1,5 +1,5 @@
 - dashboard: employee_dashboard
-  title: "Employee Analytics Dashboard"
+  title: "Employee Analytics Dashboard1"
   layout: newspaper
   preferred_viewer: dashboards-next
   description: "Headcount, salary, attrition, tenure and performance. Test dashboard for Git deployment validation."
