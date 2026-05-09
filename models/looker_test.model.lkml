@@ -1,6 +1,6 @@
 connection: "test-connection1"
 
-include: "/views/*.view.lkml"
+include: "/views1/*.view.lkml"
 
 explore: employees {
   label: "Employee Analytics"
