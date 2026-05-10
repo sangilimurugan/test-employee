@@ -1,5 +1,5 @@
-view: employees {
-  sql_table_name: `acquired-goods-467720-d6.test.employees` ;;
+view: employee {
+  sql_table_name: `acquired-goods-467720-d6.test.employee` ;;
 
   # ── Primary Key ───────────────────────────────────────────────────────────────
   dimension: employee_id {
